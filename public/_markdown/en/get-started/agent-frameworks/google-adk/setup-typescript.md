@@ -476,7 +476,5 @@ main().catch(console.error);
 -   Explore [creating custom tools](/guides/create-tools/tool-basics/build-mcp-server.md)
      with the Arcade  SDK
 
-Last updated on February 10, 2026
-
 [Setup (Python)](/en/get-started/agent-frameworks/google-adk/setup-python.md)
 [Overview](/en/get-started/agent-frameworks/langchain/overview.md)

@@ -143,7 +143,5 @@ You can use any of the available [Arcade clients](/references.md) to call the to
 
 Your  Server is now deployed and managed by Arcade, and ready to be used in your MCP clients!
 
-Last updated on January 30, 2026
-
 [Configure Arcade's engine](/en/guides/deployment-hosting/configure-engine.md)
-[Overview](/en/guides/security.md)
+[Build Your Own](/en/guides/logic-extensions/build-your-own.md)

@@ -462,7 +462,5 @@ if __name__ == "__main__":
     chat()
 ```
 
-Last updated on January 30, 2026
-
 [Overview](/en/get-started/agent-frameworks.md)
-[Using Arcade tools](/en/get-started/agent-frameworks/crewai/use-arcade-tools.md)
+[Setup Arcade tools with CrewAI](/en/get-started/agent-frameworks/crewai/use-arcade-tools.md)

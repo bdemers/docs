@@ -179,7 +179,5 @@ If your organization has strict data residency requirements—for example, in fi
 
 For compliance inquiries or data protection questions, [contact us](/resources/contact-us.md).
 
-Last updated on January 30, 2026
-
 [Overview](/en/guides/deployment-hosting.md)
 [On-premises MCP servers](/en/guides/deployment-hosting/on-prem.md)

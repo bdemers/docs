@@ -201,7 +201,5 @@ Evaluations are a way to test the LLMs’ ability to select and call your tools.
 _Learn more about evaluations [here](/guides/create-tools/evaluate-tools/why-evaluate.md)
 ._
 
-Last updated on January 30, 2026
-
 [Tools](/en/resources/tools.md)
 [FAQ](/en/resources/faq.md)

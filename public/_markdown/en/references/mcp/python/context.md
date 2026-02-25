@@ -421,7 +421,5 @@ The unique identifier for the current MCP request
 
 The unique identifier for the current MCP session
 
-Last updated on February 10, 2026
-
 [Overview](/en/references/mcp/python.md)
 [Server](/en/references/mcp/python/server.md)

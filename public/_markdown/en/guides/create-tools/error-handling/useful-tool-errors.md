@@ -253,7 +253,5 @@ This will raise a `ToolOutputError` because the return type doesn’t match the 
 
 To learn more about how to handle tool errors in your , see the [Use Tools](/guides/tool-calling/error-handling.md) section.
 
-Last updated on January 30, 2026
-
 [Retry Tools with Improved Prompt](/en/guides/create-tools/error-handling/retry-tools.md)
-[Migrate from toolkits to MCP servers](/en/guides/create-tools/migrate-toolkits.md)
+[Overview](/en/guides/create-tools/secure-your-server.md)

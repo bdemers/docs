@@ -355,7 +355,5 @@ China
 
 Make sure to configure your OAuth provider and API calls to use the correct domain for your ’s data center.
 
-Last updated on January 30, 2026
-
 [Zendesk](/en/references/auth-providers/zendesk.md)
 [Zoom](/en/references/auth-providers/zoom.md)

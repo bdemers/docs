@@ -34,11 +34,12 @@ Don't see what you need? Use Arcade's SDK to integrate with any service or API.
 
 [Learn how to build a MCP Server](/guides/create-tools/tool-basics/build-mcp-server.md)
 
-130 servers
+134 servers
 
 [Asana Arcade Optimized MCP Server](/en/resources/integrations/productivity/asana.md)
 [ClickUp Arcade Optimized MCP Server](/en/resources/integrations/productivity/clickup.md)
 [Confluence Arcade Optimized MCP Server](/en/resources/integrations/productivity/confluence.md)
+[Daytona Arcade Optimized MCP Server](/en/resources/integrations/development/daytona.md)
 [Dropbox Arcade Optimized MCP Server](/en/resources/integrations/productivity/dropbox.md)
 [E2B Arcade Optimized MCP Server BYOCPro](/en/resources/integrations/development/e2b.md)
 [Firecrawl Arcade Optimized MCP Server BYOCPro](/en/resources/integrations/development/firecrawl.md)
@@ -62,8 +63,12 @@ Don't see what you need? Use Arcade's SDK to integrate with any service or API.
 [Imgflip Arcade Optimized MCP Server BYOCPro](/en/resources/integrations/entertainment/imgflip.md)
 [Linear Arcade Optimized MCP Server](/en/resources/integrations/productivity/linear.md)
 [LinkedIn Arcade Optimized MCP Server](/en/resources/integrations/social/linkedin.md)
+[Microsoft Excel Arcade Optimized MCP Server](/en/resources/integrations/productivity/microsoft-excel.md)
+[Microsoft OneDrive Arcade Optimized MCP Server](/en/resources/integrations/productivity/microsoft-onedrive.md)
+[Microsoft PowerPoint Arcade Optimized MCP Server](/en/resources/integrations/productivity/microsoft-powerpoint.md)
 [Microsoft SharePoint Arcade Optimized MCP Server](/en/resources/integrations/productivity/sharepoint.md)
 [Microsoft Teams Arcade Optimized MCP Server](/en/resources/integrations/social/microsoft-teams.md)
+[Microsoft Word Arcade Optimized MCP Server](/en/resources/integrations/productivity/microsoft-word.md)
 [Notion Arcade Optimized MCP Server](/en/resources/integrations/productivity/notion.md)
 [Outlook Calendar Arcade Optimized MCP Server](/en/resources/integrations/productivity/outlook-calendar.md)
 [Outlook Mail Arcade Optimized MCP Server](/en/resources/integrations/productivity/outlook-mail.md)
@@ -103,7 +108,7 @@ Don't see what you need? Use Arcade's SDK to integrate with any service or API.
 [HubSpot Users API Arcade Unoptimized MCP Server](/en/resources/integrations/sales/hubspot-users-api.md)
 [Intercom API Arcade Unoptimized MCP Server](/en/resources/integrations/customer-support/intercom-api.md)
 [Luma API Arcade Unoptimized MCP Server](/en/resources/integrations/productivity/luma-api.md)
-[Mailchimp API Arcade Unoptimized MCP Server](/en/resources/integrations/productivity/mailchimp-api.md)
+[Mailchimp API Arcade Unoptimized MCP Server](/en/resources/integrations/productivity/mailchimp-marketing-api.md)
 [Miro API Arcade Unoptimized MCP Server](/en/resources/integrations/productivity/miro-api.md)
 [PagerDuty API Arcade Unoptimized MCP Server](/en/resources/integrations/development/pagerduty-api.md)
 [PostHog API Arcade Unoptimized MCP Server](/en/resources/integrations/development/posthog-api.md)
@@ -113,7 +118,7 @@ Don't see what you need? Use Arcade's SDK to integrate with any service or API.
 [TickTick API Arcade Unoptimized MCP Server](/en/resources/integrations/productivity/ticktick-api.md)
 [Trello API Arcade Unoptimized MCP Server](/en/resources/integrations/productivity/trello-api.md)
 [Vercel API Arcade Unoptimized MCP Server](/en/resources/integrations/development/vercel-api.md)
-[Weaviate API Arcade Unoptimized MCP Server](/en/resources/integrations/development/weaviate-api.md)
+[Weaviate API Arcade Unoptimized MCP Server](/en/resources/integrations/databases/weaviate-api.md)
 [Xero API Arcade Unoptimized MCP Server](/en/resources/integrations/productivity/xero-api.md)
 [Zoho Books API Arcade Unoptimized MCP Server](/en/resources/integrations/payments/zoho-books-api.md)
 [Zoho Creator API Arcade Unoptimized MCP Server](/en/resources/integrations/development/zoho-creator-api.md)
@@ -127,8 +132,6 @@ Don't see what you need? Use Arcade's SDK to integrate with any service or API.
 [Discord Auth Provider](/en/resources/integrations/social/discord.md)
 [Jira Auth Provider](/en/resources/integrations/productivity/jira.md)
 [Twitch Auth Provider](/en/resources/integrations/entertainment/twitch.md)
-
-Last updated on January 30, 2026
 
 [Microsoft Copilot Studio](/en/get-started/mcp-clients/copilot-studio.md)
 [Contribute a Server](/en/resources/integrations/contribute-a-server.md)

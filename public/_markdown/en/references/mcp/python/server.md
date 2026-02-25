@@ -345,7 +345,5 @@ if __name__ == "__main__":
     asyncio.run(main())
 ```
 
-Last updated on February 10, 2026
-
 [Context](/en/references/mcp/python/context.md)
 [Settings](/en/references/mcp/python/settings.md)

@@ -168,7 +168,5 @@ async def get_playback_state(
         return response.json()
 ```
 
-Last updated on January 30, 2026
-
 [Slack](/en/references/auth-providers/slack.md)
 [Square](/en/references/auth-providers/square.md)

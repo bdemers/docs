@@ -578,7 +578,7 @@ On first use, you’ll see an authorization button. Click it to connect your Gma
 
 1.  **Add more **: Browse the [MCP server catalog](/resources/integrations.md)
      and add tools for GitHub, Notion, Linear, and more.
-2.  **Add  authentication**: In production, get `userId` from your auth system instead of environment variables. See [Security](/guides/security.md)
+2.  **Add  authentication**: In production, get `userId` from your auth system instead of environment variables. See [Secure your server](/guides/create-tools/secure-your-server.md)
      for best practices.
 3.  **Deploy to Vercel**: Push your chatbot to GitHub and [deploy to Vercel](https://vercel.com/docs/deployments/overview)
       with one click. Add your environment variables in the Vercel dashboard.
@@ -943,7 +943,5 @@ export default function Chat() {
 }
 ```
 
-Last updated on January 30, 2026
-
-[Setup Arcade with OpenAI Agents SDK](/en/get-started/agent-frameworks/openai-agents/use-arcade-with-openai-agents.md)
+[Setup (TypeScript)](/en/get-started/agent-frameworks/openai-agents/setup-typescript.md)
 [Overview](/en/get-started/mcp-clients.md)

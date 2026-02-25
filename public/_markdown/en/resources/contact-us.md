@@ -14,11 +14,9 @@ Contact
 
 [GitHub Issues & Discussions Report bugs, request features, and contribute to Arcade. You can report problems via Github Issues or start a discussion on Github Discussions. Learn more](https://github.com/ArcadeAI/arcade-mcp)
 
-[Security Research Report security vulnerabilities responsibly. Learn about our security research program and disclosure process. Learn more](/guides/security/security-research-program.md)
+[Security Research Report security vulnerabilities responsibly. Learn about our security research program and disclosure process. Learn more](/resources/security-research-program.md)
 
 [System Status Check the current status of Arcade's services, view incident history, and subscribe to updates. Learn more](https://status.arcade.dev)
 
-Last updated on January 30, 2026
-
-[FAQ](/en/resources/faq.md)
+[Security research program](/en/resources/security-research-program.md)
 [Arcade Registry Early Access](/en/resources/registry-early-access.md)

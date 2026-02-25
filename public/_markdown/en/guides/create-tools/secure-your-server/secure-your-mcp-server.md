@@ -2,8 +2,9 @@
 title: "Adding Resource Server Auth"
 description: "Secure your HTTP MCP server with OAuth 2.1 Resource Server auth"
 ---
-[Security & Compliance](/en/guides/security.md)
-Secure your MCP server
+[Create tools](/en/guides/create-tools/tool-basics.md)
+[Secure your server](/en/guides/create-tools/secure-your-server.md)
+Add Resource Server auth
 
 # Adding Resource Server Auth to Your MCP Server
 
@@ -452,7 +453,5 @@ AuthorizationServerEntry(
 -   **Use secrets securely**: [Create tools with secrets](/guides/create-tools/tool-basics/create-tool-secrets.md)
 
 
-Last updated on January 30, 2026
-
-[Securing Arcade MCP](/en/guides/security/securing-arcade-mcp.md)
-[Security research program](/en/guides/security/security-research-program.md)
+[Overview](/en/guides/create-tools/secure-your-server.md)
+[Migrate from toolkits to MCP servers](/en/guides/create-tools/migrate-toolkits.md)

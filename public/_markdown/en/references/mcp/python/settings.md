@@ -583,7 +583,5 @@ Override port (HTTP only)
 
 Override reload (`"0"` or `"1"`, HTTP only)
 
-Last updated on February 10, 2026
-
 [Server](/en/references/mcp/python/server.md)
 [Middleware](/en/references/mcp/python/middleware.md)

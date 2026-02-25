@@ -7,11 +7,13 @@ description: "Guides, resources, sample agents, and references for Arcade auth p
 Arcade handles OAuth, manages user tokens, and gives you 100+pre-built integrations so your agents can take real action in production.
 
 [Get Started](/get-started/quickstarts/call-tool-agent.md)
-[Explore Tools](/resources/integrations.md)
+[Explore Tools](/en/resources/integrations.md)
+
+[These docs are LLM-friendly — AI agents get clean markdown automatically](/get-started/setup/connect-arcade-docs.md)
 
 ## Get Tools
 
-[Pre-built Integrations Browse 100+ ready-to-use integrations for Gmail, Slack, GitHub, and more. ![Gmail](/images/icons/gmail.png)![Slack](/images/icons/slack.png)![GitHub](/images/icons/github.png)![Google Sheets](/images/icons/google_sheets.svg)![Jira](/images/icons/jira.svg)![Notion](/images/icons/notion.png)![Linear](/images/icons/linear.svg)![HubSpot](/images/icons/hubspot.png)![Stripe](/images/icons/stripe.svg)![Google Drive](/images/icons/google_drive.png)![Dropbox](/images/icons/dropbox.png)![Confluence](/images/icons/confluence.svg)![Reddit](/images/icons/reddit.png) Learn more](/resources/integrations.md)
+[Pre-built Integrations Browse 100+ ready-to-use integrations for Gmail, Slack, GitHub, and more. ![Gmail](/images/icons/gmail.png)![Slack](/images/icons/slack.png)![GitHub](/images/icons/github.png)![Google Sheets](/images/icons/google_sheets.svg)![Jira](/images/icons/jira.svg)![Notion](/images/icons/notion.png)![Linear](/images/icons/linear.svg)![HubSpot](/images/icons/hubspot.png)![Stripe](/images/icons/stripe.svg)![Google Drive](/images/icons/google_drive.png)![Dropbox](/images/icons/dropbox.png)![Confluence](/images/icons/confluence.svg)![Reddit](/images/icons/reddit.png) Learn more](/en/resources/integrations.md)
 
 [Build Custom Tools Create your own MCP servers and custom tools with our SDK. Learn more](/guides/create-tools/tool-basics/build-mcp-server.md)
 
@@ -25,13 +27,13 @@ Arcade handles OAuth, manages user tokens, and gives you 100+pre-built integrati
 
 Pre-built MCP servers ready to use with your agents.
 
-[See all 100+](/resources/integrations.md)
+[See all 100+](/en/resources/integrations.md)
 
 [![Google Sheets](/images/icons/google_sheets.svg) Google Sheets](/resources/integrations/productivity/google-sheets.md)
 [![Jira](/images/icons/jira.svg) Jira](/resources/integrations/productivity/jira.md)
 [![Gmail](/_next/image?url=%2Fimages%2Ficons%2Fgmail.png&w=64&q=75) Gmail](/resources/integrations/productivity/gmail.md)
 [![Confluence](/images/icons/confluence.svg) Confluence](/resources/integrations/productivity/confluence.md)
-[![Slack](/_next/image?url=%2Fimages%2Ficons%2Fslack.png&w=64&q=75) Slack](/resources/integrations/social-communication/slack.md)
+[![Slack](/_next/image?url=%2Fimages%2Ficons%2Fslack.png&w=64&q=75) Slack](/resources/integrations/social/slack.md)
 [![Google Docs](/_next/image?url=%2Fimages%2Ficons%2Fgoogle_docs.png&w=64&q=75) Google Docs](/resources/integrations/productivity/google-docs.md)
 [![Google Slides](/_next/image?url=%2Fimages%2Ficons%2Fgoogle_slides.png&w=64&q=75) Google Slides](/resources/integrations/productivity/google-slides.md)
 [![HubSpot](/_next/image?url=%2Fimages%2Ficons%2Fhubspot.png&w=64&q=75) HubSpot](/resources/integrations/sales/hubspot.md)
@@ -39,13 +41,13 @@ Pre-built MCP servers ready to use with your agents.
 [![Google Drive](/_next/image?url=%2Fimages%2Ficons%2Fgoogle_drive.png&w=64&q=75) Google Drive](/resources/integrations/productivity/google-drive.md)
 
 [![GitHub](/_next/image?url=%2Fimages%2Ficons%2Fgithub.png&w=64&q=75) GitHub](/resources/integrations/development/github.md)
-[![X](/_next/image?url=%2Fimages%2Ficons%2Ftwitter.png&w=64&q=75) X](/resources/integrations/social-communication/x.md)
-[![MS Teams](/_next/image?url=%2Fimages%2Ficons%2Fms_teams.png&w=64&q=75) MS Teams](/resources/integrations/social-communication/microsoft-teams.md)
+[![X](/_next/image?url=%2Fimages%2Ficons%2Ftwitter.png&w=64&q=75) X](/resources/integrations/social/x.md)
+[![MS Teams](/_next/image?url=%2Fimages%2Ficons%2Fms_teams.png&w=64&q=75) MS Teams](/resources/integrations/social/microsoft-teams.md)
 [![Outlook](/_next/image?url=%2Fimages%2Ficons%2Foutlook_mail.png&w=64&q=75) Outlook](/resources/integrations/productivity/outlook-mail.md)
 [![Stripe](/images/icons/stripe.svg) Stripe](/resources/integrations/payments/stripe.md)
 [![Notion](/_next/image?url=%2Fimages%2Ficons%2Fnotion.png&w=64&q=75) Notion](/resources/integrations/productivity/notion.md)
 [![Asana](/images/icons/asana.svg) Asana](/resources/integrations/productivity/asana.md)
-[![Reddit](/_next/image?url=%2Fimages%2Ficons%2Freddit.png&w=64&q=75) Reddit](/resources/integrations/social-communication/reddit.md)
+[![Reddit](/_next/image?url=%2Fimages%2Ficons%2Freddit.png&w=64&q=75) Reddit](/resources/integrations/social/reddit.md)
 [![YouTube](/_next/image?url=%2Fimages%2Ficons%2Fyoutube.png&w=64&q=75) YouTube](/resources/integrations/search/youtube.md)
 [![Dropbox](/_next/image?url=%2Fimages%2Ficons%2Fdropbox.png&w=64&q=75) Dropbox](/resources/integrations/productivity/dropbox.md)
 
@@ -66,7 +68,7 @@ Three core components that power your AI agents.
 
 [Runtime Your MCP server and agentic tool provider. Manages authentication, tool registration, and execution. Learn more](/get-started/about-arcade.md)
 
-[Tool Catalog Catalog of pre-built tools and integrations. Browse 100+ ready-to-use MCP servers. Learn more](/resources/integrations.md)
+[Tool Catalog Catalog of pre-built tools and integrations. Browse 100+ ready-to-use MCP servers. Learn more](/en/resources/integrations.md)
 
 [Agent Authorization Let agents act on behalf of users. Handle OAuth, API keys, and tokens for tools like Gmail and Google Drive. Learn more](/guides/tool-calling/custom-apps/auth-tool-calling.md)
 
@@ -82,15 +84,11 @@ See Arcade in action with these example applications.
 
 [### YouTube Podcast Summarizer A Slack bot that extracts and summarizes YouTube transcripts.](https://github.com/dforwardfeed/slack-AIpodcast-summaries)
 
-[### Connect Your IDE with Arcade's LLMs.txt Give Cursor, Claude Code, and other AI IDEs access to Arcade's documentation so they can write integration code for you.](/get-started/setup/connect-arcade-docs.md)
-
 ## Quick Links
 
 [API Reference](/references/api.md)
 [CLI Cheat Sheet](/references/cli-cheat-sheet.md)
 [FAQ](/resources/faq.md)
 [Changelog](/references/changelog.md)
-
-Last updated on January 30, 2026
 
 [About Arcade](/en/get-started/about-arcade.md)

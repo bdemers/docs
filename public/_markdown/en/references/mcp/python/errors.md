@@ -201,7 +201,5 @@ except MCPError:
     print("General MCP error")
 ```
 
-Last updated on February 10, 2026
-
 [Middleware](/en/references/mcp/python/middleware.md)
 [Telemetry](/en/references/mcp/telemetry.md)

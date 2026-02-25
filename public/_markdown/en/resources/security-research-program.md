@@ -2,7 +2,6 @@
 title: "Security Research Program"
 description: "Report security vulnerabilities and help us build safe and reliable tools"
 ---
-[Security & Compliance](/en/guides/security.md)
 Security research program
 
 # Security Research Program
@@ -52,7 +51,5 @@ While we’re a small team with limited resources, we appreciate the effort rese
 
 For questions about this program, please contact [security@arcade.dev](mailto:security@arcade.dev).
 
-Last updated on January 30, 2026
-
-[Secure your MCP server](/en/guides/security/secure-your-mcp-server.md)
-[Build Your Own](/en/guides/logic-extensions/build-your-own.md)
+[FAQ](/en/resources/faq.md)
+[Contact](/en/resources/contact-us.md)

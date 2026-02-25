@@ -163,7 +163,5 @@ async def list_servers(
         return response.json()
 ```
 
-Last updated on January 30, 2026
-
 [ClickUp](/en/references/auth-providers/clickup.md)
 [Dropbox](/en/references/auth-providers/dropbox.md)

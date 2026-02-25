@@ -2,8 +2,8 @@
 title: "Securing Arcade MCP Deployments"
 description: "Arcade - AI platform for developers"
 ---
-[Security & Compliance](/en/guides/security.md)
-Securing Arcade MCP
+[Create tools](/en/guides/create-tools/tool-basics.md)
+Secure your serverOverview
 
 # Securing Arcade MCP Deployments
 
@@ -30,13 +30,11 @@ This approach is ideal when:
 
 Resource Server auth works alongside tool-level authorization. Resource Server auth secures access to the  server itself, while \-level auth enables your tools to access third-party APIs on behalf of the authenticated .
 
-Learn more about adding front-door OAuth to your  server [here](/guides/security/secure-your-mcp-server.md).
+Learn more about adding front-door OAuth to your  server [here](/guides/create-tools/secure-your-server/secure-your-mcp-server.md).
 
 ### Client ID Metadata Documents (Coming soon)
 
 Coming soon, you will be able to secure your  server using Client ID Metadata Documents (CIMD) for authorization. Learn more about how MCP integrates with OAuth [here](https://blog.modelcontextprotocol.io/posts/client_registration/) .
 
-Last updated on January 30, 2026
-
-[Overview](/en/guides/security.md)
-[Secure your MCP server](/en/guides/security/secure-your-mcp-server.md)
+[Provide Useful Tool Errors](/en/guides/create-tools/error-handling/useful-tool-errors.md)
+[Add Resource Server auth](/en/guides/create-tools/secure-your-server/secure-your-mcp-server.md)

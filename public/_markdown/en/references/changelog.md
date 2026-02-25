@@ -118,7 +118,7 @@ We’ve dramatically revamped our documentation to focus on making it easier to 
 
 **Arcade  Servers**
 
--   `[feature - 🚀]` OAuth authentication for `arcade-mcp` servers. Learn more about it \[here\](/guides/security/secure-your-\-server!
+-   `[feature - 🚀]` OAuth authentication for `arcade-mcp` servers. Learn more about it \[here\](/guides/create-tools/secure-your-server/secure-your-\-server!
 -   `[maintenance - 🔧]` Ability to run multiple uvicorn workers
 -   `[maintenance - 🔧]` Include type annotations for `arcade_mcp_server`
 
@@ -682,8 +682,6 @@ Self-hosed Arcade developers cannot be grandfathered into the old (insecure) beh
      )
 -   `[feature - 🚀]` Launched status.arcade.dev for monitoring platform status ([link](https://status.arcade.dev)
      )
-
-Last updated on February 10, 2026
 
 [Overview](/en/references.md)
 [API](/en/references/api.md)

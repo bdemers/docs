@@ -857,7 +857,5 @@ if __name__ == "__main__":
     asyncio.run(main())
 ```
 
-Last updated on January 30, 2026
-
 [Overview](/en/get-started/agent-frameworks/langchain/overview.md)
 [Setup (TypeScript)](/en/get-started/agent-frameworks/langchain/use-arcade-with-langchain-ts.md)

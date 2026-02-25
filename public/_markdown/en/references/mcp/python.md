@@ -507,7 +507,5 @@ if __name__ == "__main__":
     app.run()
 ```
 
-Last updated on February 10, 2026
-
 [API](/en/references/api.md)
 [Context](/en/references/mcp/python/context.md)

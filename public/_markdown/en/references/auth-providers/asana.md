@@ -263,7 +263,5 @@ const response = await client.tools.execute({
 console.log(response.output.value);
 ```
 
-Last updated on January 30, 2026
-
 [Airtable](/en/references/auth-providers/airtable.md)
 [Atlassian](/en/references/auth-providers/atlassian.md)

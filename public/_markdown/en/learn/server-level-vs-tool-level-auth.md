@@ -14,7 +14,7 @@ Arcade  servers support two distinct layers of authorization that work together 
 
 Aspect
 
-[Resource Server Auth (Front-Door)](/guides/security/secure-your-mcp-server.md)
+[Resource Server Auth (Front-Door)](/guides/create-tools/secure-your-server/secure-your-mcp-server.md)
 
 [Tool-Level Authorization](/guides/create-tools/tool-basics/create-tool-auth.md)
 
@@ -256,8 +256,6 @@ if __name__ == "__main__":
 -   **HTTP requires Resource Server auth** - For  with auth/secrets in production
 -   **stdio doesn’t need Resource Server auth** - Local connections are already secure
 -   **Choose based on transport and requirements** - Different scenarios need different combinations
-
-Last updated on January 30, 2026
 
 [Build Your Own](/en/guides/logic-extensions/build-your-own.md)
 [Overview](/en/references.md)

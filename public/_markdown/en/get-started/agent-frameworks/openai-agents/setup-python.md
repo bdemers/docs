@@ -559,7 +559,5 @@ if __name__ == "__main__":
     asyncio.run(main())
 ```
 
-Last updated on February 10, 2026
-
 [Overview](/en/get-started/agent-frameworks/openai-agents/overview.md)
 [Setup (TypeScript)](/en/get-started/agent-frameworks/openai-agents/setup-typescript.md)

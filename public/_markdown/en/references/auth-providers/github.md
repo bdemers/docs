@@ -1242,7 +1242,5 @@ Use this checklist to ensure proper setup:
 
 _💡 Remember: Always use GitHub Apps (not OAuth Apps), enable  authorization during installation, and store credentials securely!_
 
-Last updated on January 30, 2026
-
 [Figma](/en/references/auth-providers/figma.md)
 [Google](/en/references/auth-providers/google.md)

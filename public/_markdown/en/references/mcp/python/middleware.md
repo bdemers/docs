@@ -329,7 +329,5 @@ composed = compose_middleware(
 )
 ```
 
-Last updated on February 10, 2026
-
 [Settings](/en/references/mcp/python/settings.md)
 [Errors](/en/references/mcp/python/errors.md)

@@ -336,7 +336,5 @@ Configure the auth method when creating your extension in the Dashboard.
 -   [How Hooks Work](/guides/contextual-access/how-hooks-work.md)
      — Understand execution order, phases, and failure modes
 
-Last updated on February 10, 2026
-
 [Running an Extension](/en/guides/contextual-access/examples.md)
 [MCP Gateways](/en/guides/mcp-gateways.md)

@@ -20,7 +20,5 @@ We are seeking beta testers who are interested in building, maintaining, and sha
 
 Loading...
 
-Last updated on January 30, 2026
-
 [Contact](/en/resources/contact-us.md)
 [Contextual Access](/en/guides/contextual-access.md)
