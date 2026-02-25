@@ -662,7 +662,7 @@ On first use, you’ll see an authorization button. Click it to connect your Gma
 1.  **Add more **: Browse the [MCP server catalog](/resources/integrations.md)
      and add tools for GitHub, Notion, Linear, and more.
 2.  **Try different providers**: Swap `@tanstack/ai-openai` for `@tanstack/ai-anthropic` or `@tanstack/ai-gemini` to use different AI models.
-3.  **Add  authentication**: In production, get `userId` from your auth system instead of environment variables. See [Security](/guides/security.md)
+3.  **Add  authentication**: In production, get `userId` from your auth system instead of environment variables. See [Secure your server](/guides/create-tools/secure-your-server.md)
      for best practices.
 4.  **Deploy your chatbot**: TanStack Start supports deployment to Vercel, Netlify, Cloudflare, and Node.js servers.
 
@@ -1074,7 +1074,7 @@ export const Route = createFileRoute("/")({
 });
 ```
 
-Last updated on February 10, 2026
+Last updated on January 5, 2026
 
 [Setup (TypeScript)](/en/get-started/agent-frameworks/openai-agents/setup-typescript.md)
 [Vercel AI SDK](/en/get-started/agent-frameworks/vercelai.md)
