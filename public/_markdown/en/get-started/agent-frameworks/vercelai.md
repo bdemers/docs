@@ -943,5 +943,7 @@ export default function Chat() {
 }
 ```
 
-[Setup (TypeScript)](/en/get-started/agent-frameworks/openai-agents/setup-typescript.md)
+Last updated on January 5, 2026
+
+[TanStack AI](/en/get-started/agent-frameworks/tanstack-ai.md)
 [Overview](/en/get-started/mcp-clients.md)
