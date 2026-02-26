@@ -85,7 +85,7 @@ Validating user is logged in...
 Validating pyproject.toml exists in current directory...
 ✓ pyproject.toml found at /path/to/your/project/pyproject.toml
 
-Loading .env file from current directory if it exists...
+Searching for .env file...
 ✓ Loaded environment from /path/to/your/project/.env
 
 Validating server is healthy and extracting metadata before deploying...
@@ -142,6 +142,8 @@ When creating an  gateway, you can select the tools you want to include in the G
 You can use any of the available [Arcade clients](/references.md) to call the tools in your  Server. When using the clients, you are not required to create an , as the client will handle the connection to all tools in your Arcade  directly.
 
 Your  Server is now deployed and managed by Arcade, and ready to be used in your MCP clients!
+
+Last updated on January 5, 2026
 
 [Configure Arcade's engine](/en/guides/deployment-hosting/configure-engine.md)
 [Build Your Own](/en/guides/logic-extensions/build-your-own.md)
